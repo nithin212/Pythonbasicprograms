@@ -46,3 +46,7 @@ Sample Output
    15    17     F  1111
    16    20    10 10000
    17    21    11 10001     
+   
+   3. Write a program that prints a giant letter A 
+   
+   
