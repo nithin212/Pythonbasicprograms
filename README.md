@@ -47,7 +47,5 @@ Sample Output
    16    20    10 10000
    17    21    11 10001     
    
-   3. Write a program that prints a giant letter A 
-   
-   4.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', 
-   except the first char itself.
+3. Write a program that prints a giant letter A 
+4.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
