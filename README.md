@@ -49,4 +49,5 @@ Sample Output
    
    3. Write a program that prints a giant letter A 
    
-   
+   4.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', 
+   except the first char itself.
