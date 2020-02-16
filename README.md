@@ -1,4 +1,4 @@
-# Pythonbasicprograms
+# Python Basic Programs
 This repository have python basic programs
 1. First program is for how to create below given output.
     1
@@ -50,5 +50,4 @@ Sample Output
 3. Write a program that prints a giant letter A. 
 
 4.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
-
 5. Python program to print star program with odd number of stars by taking an input from user.Input is number of levels.
