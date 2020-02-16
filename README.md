@@ -51,4 +51,4 @@ Sample Output
 
 4.Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
 
-5. Python program to print star program with odd number of stars by taking an input from user.Input is number of levels.
+5.Python program to print star program with odd number of stars by taking an input from user.Input is number of levels.
