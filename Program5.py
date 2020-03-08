@@ -1,8 +1,6 @@
-o=int(input()) #"Enter the number of levels of stars required
-print("\n")
-b=1
-for i in range(1,o//2+1):
-    l=o//2
-    print(" "*l,"*"*b," "*l)
-    o=o-2
-    b=b+2
+a=int(input()) #Enter of stars required at the last line
+b=a//2
+for i in range(1,a+1):
+    if i%2!=0:
+        print(" "*b,"*"*i," "*b)
+        b=b-1 
